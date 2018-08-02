@@ -1,0 +1,84 @@
+html {
+	background-color: #eeeeee;
+}
+
+.spinner-color {
+	border-color: #1db954;
+}
+
+.site-preloader {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.login-card {
+	background-color: #191414;
+	margin: 50px auto;
+	width: 400px;
+}
+
+.spotify-logo {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.login-btn,
+.profile-btn,
+.logout-btn {
+	background-color: #1db954 !important;
+}
+
+.profile-card {
+	margin-top: 40px;
+	background-color: #191414;
+}
+
+.profile-img {
+	max-width: 200px !important;
+}
+
+.profile-data {
+	font-size: 16px;
+}
+
+.top-list li a {
+	color: #1db954;
+}
+
+.top-profile {
+	max-width: 50px;
+	max-height: 50px;
+	margin-right: 15px;
+}
+
+.top-collection-item {
+	display: flex;
+}
+
+.top-text {
+	display: flex;
+	align-items: flex-start;
+}
+
+.top-text-artist {
+	display: flex;
+	align-items: center;
+}
+
+.popularity {
+	margin-left: auto;
+}
+
+.artist-track-list {
+	display: flex;
+	flex-direction: column;
+}
+
+.track-number {
+	margin-right: 6px;
+	margin-top: 0;
+	margin-bottom: auto;
+}
